@@ -1,0 +1,51 @@
+[33mcommit 74a985a573c5dcc843134dea615dd824db79c172[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6620453 5614a4b
+Author: Rodrigo <rodriman92@live.com.ar>
+Date:   Mon Dec 21 15:47:59 2020 -0300
+
+    Merge branch 'main' of github.com:rodriman92/git-basic into main
+    
+    # Conflicts:
+    #       song.txt
+
+[33mcommit 6620453e40c2b53bedb6cb7ef5ef7f6d602fdbbd[m
+Author: Rodrigo <rodriman92@live.com.ar>
+Date:   Mon Dec 21 15:45:08 2020 -0300
+
+    new new
+
+[33mcommit 5614a4b04abf138752950a379177a880ca99ebe6[m
+Author: Rodrigo <rodriman92@live.com.ar>
+Date:   Thu Dec 17 16:12:48 2020 -0300
+
+    modify readme
+
+[33mcommit f1e42448d454cec5ee48f6fbed69a28db20b9250[m
+Author: Rodrigo <rodriman92@live.com.ar>
+Date:   Thu Dec 17 16:11:03 2020 -0300
+
+    add datetime
+
+[33mcommit 685b87ab6536c2568aceb380ed386b2592580a81[m
+Author: rodriman92 <36197084+rodriman92@users.noreply.github.com>
+Date:   Thu Dec 17 10:49:52 2020 -0300
+
+    New line jkasjaks
+
+[33mcommit f22858735351075117cacb79a33fdbe30d69b878[m
+Author: rodriman92 <36197084+rodriman92@users.noreply.github.com>
+Date:   Wed Dec 16 12:50:34 2020 -0300
+
+    Added new line
+
+[33mcommit 94f1d96cbf8680b191067e654ce7f6f7ea1d3531[m
+Author: Rodrigo Mancilla <rodmancilla92@gmail.com>
+Date:   Wed Dec 16 12:36:48 2020 -0300
+
+    added song.txt
+
+[33mcommit 69bdbf1a39709b5bccd4d1dd177d584d8f91fa14[m
+Author: rodriman92 <36197084+rodriman92@users.noreply.github.com>
+Date:   Wed Dec 16 11:13:54 2020 -0300
+
+    Initial commit
