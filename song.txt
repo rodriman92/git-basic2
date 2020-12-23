@@ -6,3 +6,5 @@ second commit in feature
 3er commit
 4to commit
 final version
+
+New non conflict part 23/12/20
